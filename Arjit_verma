@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Minimal Webpage</title>
+</head>
+
+<body style="background-color: #F8F9FA; font-family: Arial, sans-serif;">
+
+  <div style="
+    background-color: rgb(29, 29, 144);
+    color: white;
+    border-radius: 15px;
+    padding: 25px;
+    width: fit-content;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0 40px 40px rgba(11, 15, 11, 0.1);
+  ">
+    <h1 style="margin: 0 ;">Bityug</h1>
+    <p style="margin-top: 8px; font-size: 18px; color: #E0E0FF;">
+      Innovate &#9830 build &#9830 lead
+    </p>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 50px;">
+
+    <div style="
+  background-color: #FFFFFF;
+  color: #333333;
+  border-radius: 10px;
+  padding: 20px;
+  width: 60%;
+  margin: 20px auto;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  ">
+      <h3>About BITYUG:</h3>
+      <p style="margin: 8px; margin-top: 2px;">BITYUG is a student-driven society dedicated to innovation, technology,
+        creativity, and growth. Our mission is to build a strong tech and cultural community by organizing events,
+        workshops, tech‐projects, competitions, and community initiatives.</p>
+
+      <h4>What We Do?:</h4>
+      <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
+        <li>kuch toh krte hai but ptah nhi </li>
+        <li>ig I didn't attended the first meet</li>
+        <li>NVM🙃</li>
+        <li>pr koi baat nhi register toh kar hi do guysss atleast</li>
+        <li>woh baat alg h register button doesn't work🥲</li>
+      </ul>
+    </div>
+    <div style="
+  background-color: #FFFFFF;
+  color: #333333;
+  border-radius: 10px;
+  padding: 20px;
+  width: 60%;
+  margin: 20px auto;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  ">
+      <form action="bityug_registrations.php">
+        <div>
+          <h3>Name:</h3> <input type="text">
+        </div>
+        <br>
+        <div>
+          <h3>Enrollment number:</h3> <input type="text">
+        </div>
+        <br>
+        <div>
+          <h3>Email:</h3> <input type="text">
+        </div>
+        <br>
+        <div>
+          <h3>Branch/Year:</h3> <input type="text">
+        </div>
+        <br>
+        <div>
+          <h3>Skills of Interest:</h3> <input type="text">
+        </div>
+        <br>
+      </form>
+      <div style="
+    background-color: rgb(29, 29, 144);
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: fit-content;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 0 40px 40px rgba(11, 15, 11, 0.1);
+  ">
+        <h2 style="margin: 0" ;>Register</h2>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
